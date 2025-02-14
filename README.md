@@ -1,10 +1,10 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=skyler-hall.visitor-badge&left_color=red&right_color=green&left_text=visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=skyler-hall.visitor-badge&left_color=blue&right_color=grey&left_text=visitors">
 </p>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=008000&center=true&vCenter=true&random=false&width=500&lines=Hi!;Welcome+To+My+Page" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1000&color=blue&center=true&vCenter=true&random=false&width=500&lines=Hi!;Welcome+To+My+Page" alt="Typing SVG" />
     </a>
 </h1>
 
