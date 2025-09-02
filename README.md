@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/skylerhalll/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank" />
   </a>
-    <a href="https://skylerhalll.com/" target="_blank">
+    <a href="https://skylerhalll.com" target="_blank">
     <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/" target="_blank" />
   </a>
 </div>
