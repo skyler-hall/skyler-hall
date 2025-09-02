@@ -22,14 +22,11 @@
 </div>
 <br />
 <div align="center">
-  <a href="mailto:skyler.hall.business@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank" />
-  </a>
   <a href="https://www.linkedin.com/in/skylerhalll/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank" />
   </a>
-    <a href="https://skylerhall.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <a href="https://skylerhalll.com/" target="_blank">
+    <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/" target="_blank" />
   </a>
 </div>
 
