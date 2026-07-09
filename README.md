@@ -13,10 +13,10 @@
 <br />
 
 <div align="center">
-  🎓 I'm currently studying at <strong>Florida International University: B.S. in Computer Science</strong><br /><br />
+  🎓 I'm currently studying at <strong>Florida International University: B.A. in Computer Science</strong><br /><br />
   🌱 I'm actively learning <strong>AI Engineering, RAG Systems, and Agentic AI</strong><br /><br />
   👯 I'm open to collaborative projects in <strong>Full-Stack Development, AI/ML, and Mobile Development</strong><br /><br />
-  📚 I'm certified in <strong>Python, C#, Java, JavaScript, React, Next.js, Tailwind, TypeScript, MySQL, HTML &amp; CSS</strong><br /><br />
+  📚 I'm certified in <strong>Python, Java, JavaScript, React, Next.js, Tailwind, TypeScript, MySQL, HTML &amp; CSS</strong><br /><br />
 </div>
 
 <br />
