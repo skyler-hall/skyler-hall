@@ -12,7 +12,7 @@ I like building anything I can imagine: voice assistants, small robots, and tool
 
 ## Tools I use
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,flask,mysql" alt="Python, JavaScript, TypeScript, React, Next.js, Flask, SQL" />
+<img src="https://skillicons.dev/icons?i=python,js,raspberrypi,sqlite,linux,git" alt="Python, JavaScript, Raspberry Pi, SQLite, Linux, Git" />
 
 ## Find me
 
