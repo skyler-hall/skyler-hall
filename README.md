@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stelly-night.gif">
-  <source media="(prefers-color-scheme: light)" srcset="stelly-day.gif">
-  <img src="stelly-day.gif" width="100%" alt="Stelly walking through a solarpunk city">
+  <source media="(prefers-color-scheme: dark)" srcset="stelly-night-walk.gif">
+  <source media="(prefers-color-scheme: light)" srcset="stelly-day-walk.gif">
+  <img src="stelly-day-walk.gif" width="100%" alt="Stelly walking through a solarpunk city">
 </picture>
 
 # Hi, I'm Skyler Hall
